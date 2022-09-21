@@ -9,23 +9,18 @@ and can add,subtract time
 ```
 cd Main.java
 ```
-# 🛠 Buiding and running the API
-1. Launch Server.js
+# 🛠 Buiding and running the Calculator
+1. Run Main.java in terminal
 ```
-node server.js
+java Main.java
 ```
-2. Launch the local host
+2. Run Main.java in terminal with interactive value using division operation
 ```
-http://localhost:8888/
+java Main.java interactive
 ```
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+d 30 5
+```
+3. Run Main.java in terminal with values for addition operation
+```
+java Main.java a 25 30
+```
