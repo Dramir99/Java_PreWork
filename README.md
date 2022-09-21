@@ -18,6 +18,7 @@ java Main.java
 ```
 java Main.java interactive
 ```
+```
 d 30 5
 ```
 3. Run Main.java in terminal with values for addition operation
