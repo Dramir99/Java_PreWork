@@ -9,7 +9,7 @@ and can add,subtract time
 ```
 cd Main.java
 ```
-# 🛠 Buiding and running the Calculator
+# 🛠 Running the Calculator
 1. Run Main.java in terminal
 ```
 java Main.java
