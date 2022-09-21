@@ -1,10 +1,23 @@
-## Getting Started
+# Java AEM Pre-Work
+Author: Daniel Ramirez
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Created a calculator wihch runs using the terminal command line to do operations such as (add,sub,..)
+and can add,subtract time
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
+# 🛠 Installation & Set Up
+1. Install the files
+```
+cd Main.java
+```
+# 🛠 Buiding and running the API
+1. Launch Server.js
+```
+node server.js
+```
+2. Launch the local host
+```
+http://localhost:8888/
+```
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
